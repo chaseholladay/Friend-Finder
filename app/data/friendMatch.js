@@ -1,10 +1,10 @@
 var newFriend = {
-	friendName: "Sara",
+	friendName: "Marie",
 	friendImg: "", 
 	scores: ["3", "3", "3", "3", "3", "3", "3", "3", "3", "3"]};
 
 var friendArray = {
-	"friendName": "Stephen",
+	"friendName": "Stephon",
 	"friendImg": "2",
 	"scores": [	1,	1,	1,	1,	1,	1,	1,	1,	1,	1	]};
 
