@@ -20,7 +20,7 @@ app.use(bodyParser.json());
 
 //from npm body-parser
 // parse application/json
-app.use(bodyParser.json());
+app.use( express.static('app/public'));
 
 //require the html-routes
 require('./app/routing/apiRoutes.js')(app);
