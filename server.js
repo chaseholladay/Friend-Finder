@@ -20,8 +20,13 @@ app.use(bodyParser.json());
 
 //from npm body-parser
 // parse application/json
+
+//this helps with requests to listen for styles
 app.use( express.static('app/public'));
 
+//app.get('/style.css', (req, res) => {
+  //res.sendFile(__dirname + './app/public/style.css')
+//})
 //require the html-routes
 require('./app/routing/apiRoutes.js')(app);
 require('./app/routing/htmlRoutes.js')(app);
