@@ -6,7 +6,7 @@
 var friendsArray = [
     {
       friendName: "Boudreaux",
-      friendImg: "app/images/kingcake.jpg",
+      friendImg: "/images/kingcake.jpg",
       scores: [
           1,
           1,
@@ -22,7 +22,7 @@ var friendsArray = [
     },
     {
       friendName: "T-Bo",
-      friendImg: "app/images/LouisianaSwampBeauty.jpg",
+      friendImg: "/images/LouisianaSwampBeauty.jpg",
       scores: [
           3,
           1,
@@ -38,7 +38,7 @@ var friendsArray = [
     },
     {
         friendName: "Thibideaux",
-      friendImg: "app/images/LouisianaSwampBeauty.jpg",
+      friendImg: "/images/LouisianaSwampBeauty.jpg",
       scores: [
           5,
           5,
