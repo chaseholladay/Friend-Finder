@@ -1,6 +1,6 @@
 var newFriend = {
 	friendName: "Marie",
-	friendImg: "kingcake.jpg", 
+	friendImg: "", 
 	scores: ["3", "3", "3", "3", "3", "3", "3", "3", "3", "3"]};
 
 var friendArray = {

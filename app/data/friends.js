@@ -5,8 +5,8 @@
 //this is the only friends that is persistent data
 var friendsArray = [
     {
-      friendName: "Boudreauc",
-      friendImg: "https://images.pexels.com/photos/333850/pexels-photo-333850.jpeg?h=350&auto=compress&cs=tinysrgb",
+      friendName: "Boudreaux",
+      friendImg: "app/images/kingcake.jpg",
       scores: [
           1,
           1,
@@ -22,7 +22,7 @@ var friendsArray = [
     },
     {
       friendName: "T-Bo",
-      friendImg: "https://images.pexels.com/photos/45882/man-crazy-funny-dude-45882.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+      friendImg: "app/images/LouisianaSwampBeauty.jpg",
       scores: [
           3,
           1,
@@ -38,7 +38,7 @@ var friendsArray = [
     },
     {
         friendName: "Thibideaux",
-      friendImg: "https://images.pexels.com/photos/683381/pexels-photo-683381.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
+      friendImg: "app/images/LouisianaSwampBeauty.jpg",
       scores: [
           5,
           5,
