@@ -24,4 +24,3 @@ function newArray() {
 
 newArray();
 
-new BugController({'minBugs':10, 'maxBugs':50, 'mouseOver':'die'});
