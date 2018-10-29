@@ -23,6 +23,7 @@ app.use(bodyParser.json());
 
 //this helps with requests to listen for styles
 app.use( express.static('app/public'));
+app.use(express.static('app/images'));
 
 //app.get('/style.css', (req, res) => {
   //res.sendFile(__dirname + './app/public/style.css')
